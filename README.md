@@ -1,7 +1,2 @@
 # IsabelLapp7.github.io
-## About me
-### I **LOVE** Winnie the Pooh!
-![Classic Winnie the Pooh](https://upload.wikimedia.org/wikipedia/commons/7/70/Winnie_The_Pooh_Classic.jpg)
-### I am good at jigsaw puzzles
-### I **LOVE** doing Legos
-![Droideka Lego](https://www.lego.com/cdn/cs/set/assets/blt99ee1fefbd68cec8/75381_alt1.png?fit=crop&quality=80&width=800&height=800&dpr=1)
+
